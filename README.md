@@ -9,7 +9,9 @@
 ![MVVM模式模型图](https://github.com/jan-wong/mvvm/raw/master/images/mvvm.png)
 
 `Model`表示数据部分，负责存储数据
+
 `View`表示UI视图，负责展示界面
+
 `ViewModel`表示视图模型，是Model和View的中间人。
 
 ### 数据劫持
