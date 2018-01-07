@@ -6,7 +6,7 @@
 
 ### 原理图
 
-![MVVM模式模型图](https://github.com/jan-wong/mvvm/images/mvvm.png)
+![MVVM模式模型图](https://github.com/jan-wong/mvvm/raw/master/images/mvvm.png)
 
 `Model`表示数据部分，负责存储数据
 `View`表示UI视图，负责展示界面
